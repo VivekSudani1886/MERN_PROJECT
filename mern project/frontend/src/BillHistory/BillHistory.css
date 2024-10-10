@@ -1,0 +1,27 @@
+.card {
+    border: none; 
+    border-radius: 10px; 
+}
+
+.card-body {
+    background-color: #fff; 
+}
+
+.list-group-item {
+    padding: 15px; 
+}
+
+
+.input-group {
+    max-width: 600px; 
+    margin: 0 auto;   
+}
+
+.input-group .form-control {
+    border-radius: 0.5rem 0 0 0.5rem; 
+}
+
+.input-group .btn {
+    border-radius: 0 0.5rem 0.5rem 0; 
+    font-weight: bold; 
+}
